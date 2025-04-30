@@ -16,7 +16,7 @@ API_KEY = ""
 
 [MODELS.CUSTOM_OPENAI]
 API_KEY = "sk-519097692bc34aeab8e8a91b3047727b"
-API_URL = "http://gpu.savorcare.com:3000/api"
+API_URL = "http://gpu.savorcare.com:18080/api"
 MODEL_NAME = "deepseek-r1"
 
 [MODELS.OLLAMA]
